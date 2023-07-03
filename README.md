@@ -1,6 +1,6 @@
 # Michele Ancheta
 
-##### Software engineer at [iO](https://www.iodigital.com/nl)
+### Software engineer at [iO](https://www.iodigital.com/nl)
 
 I'm a **Frontend Developer**. I had the opportunity to work with different programming languages and frameworks in my junior days and that helped me to discover that what I enjoy the most is working as a JS developer, specially with ReactJS.
 
