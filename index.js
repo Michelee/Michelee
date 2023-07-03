@@ -6,10 +6,7 @@ const MUSTACHE_MAIN_DIR = "./main.mustache";
 
 const generateReadMe = async () => {
   const mockData = await new Promise((resolve) =>
-    resolve({
-      title: "Hi! Welcome to my GitHub Profile",
-      subtitle: "Software Engineer",
-    })
+    resolve({})
   );
 
   fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
