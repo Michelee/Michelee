@@ -21,4 +21,5 @@ I'm still learning things but I hope to one day serve as an inspiration or refer
 ## Social
 
 [LinkedIn](https://www.linkedin.com/in/micheleancheta/)
+
 [mailto:michelee.ancheta@gmail.com](https://www.linkedin.com/in/micheleancheta/)
