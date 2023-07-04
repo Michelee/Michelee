@@ -20,4 +20,4 @@ I'm still learning things but I hope to one day serve as an inspiration or refer
 
 ## More info about me here
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> [Michele Ancheta](https://www.linkedin.com/in/micheleancheta/)
+[LinkedIn](https://www.linkedin.com/in/micheleancheta/)
